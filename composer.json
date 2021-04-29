@@ -1,0 +1,17 @@
+{
+    "name": "elgson/ping-pong",
+    "description": "Um grande algoritmo de ping pong",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Elgson Gabriel",
+        "email": "elgsongabriel@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
